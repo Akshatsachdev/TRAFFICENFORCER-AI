@@ -53,7 +53,7 @@ This project significantly impacts society in the following ways:
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Akshatsachdev/TRAFFICENFORCER-AI.git
+   git@github.com:Akshatsachdev/TRAFFICENFORCER-AI.git
    ```
 2. Install dependencies:  
    ```bash
